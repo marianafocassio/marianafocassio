@@ -1,14 +1,14 @@
 # :blush: Sobre mim
+:arrow_right: Desenvolvedora Web Jr. <br>
 :arrow_right: Uma completa entusiasta da programação :computer::tada: <br>
-:arrow_right: Iniciante na área de TI <br>
-:arrow_right: Estudante de Desenvolvimento Web <br>
-:arrow_right: aprendendo mais sobre JavaScript e Node.js
+:arrow_right: Aprendendo mais sobre tecnologias front-end
 
 ### :rocket: Minhas Hard Skills
 ##### Aplicações e dados
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+  ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
   ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
   ![Express](https://img.shields.io/badge/-Express-333333?style=flat&logo=express)
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
