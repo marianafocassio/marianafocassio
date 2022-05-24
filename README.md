@@ -1,7 +1,6 @@
 # :blush: Sobre mim
-:arrow_right: Desenvolvedora Web Jr. <br>
+:arrow_right: Desenvolvedora Web Front-end <br>
 :arrow_right: Uma completa entusiasta da programação :computer::tada: <br>
-:arrow_right: Aprendendo mais sobre tecnologias front-end
 
 ### :rocket: Minhas Hard Skills
 ##### Aplicações e dados
