@@ -16,10 +16,11 @@
   ![Sequelize](https://img.shields.io/badge/-Sequelize-333333?style=flat&logo=sequelize)
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
   
-<img src="workspace.svg" min-width="300px" max-width="300px" width="300px" align="right" alt="workspace image">
   
 ##### Utilidades
   ![Insomnia](https://img.shields.io/badge/-Insomnia-333333?style=flat&logo=insomnia&logoColor=4000BF)
+  
+<img src="workspace.svg" min-width="300px" max-width="300px" width="300px" align="right" alt="workspace image">
 
 ##### DevOps
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
