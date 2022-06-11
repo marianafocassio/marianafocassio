@@ -1,6 +1,6 @@
-# :blush: Sobre mim
-:arrow_right: Desenvolvedora Web Front-end <br>
-:arrow_right: Uma completa entusiasta da programação :computer::tada:
+# :blush: About me
+:arrow_right: Web Developer <br>
+:arrow_right: A complete programming enthusiast :computer::tada:
 
 <br>
 
@@ -33,7 +33,7 @@
   
   <br>
 
-### :earth_americas: Onde me encontrar
+### :earth_americas: Where to find me
 
 [![Linkedin](https://img.shields.io/badge/-marianafocassio-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marianafocassio/)](https://www.linkedin.com/in/marianafocassio/)
 [![Gmail](https://img.shields.io/badge/-focassiomariana@gmail.com-006bed?style=flat&logo=Gmail&logoColor=white&link=mailto:focassiomariana@gmail.com)](mailto:focassiomariana@gmail.com)
